@@ -57,6 +57,9 @@ public class Main {
                 }
             }
         }
+        else {
+            return null;
+        }
         return rotatedColors;
     }
 }
